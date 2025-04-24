@@ -1,4 +1,4 @@
-# Gerador-de-senhas
+# Gerador de senhas
 Gerador de senhas aleatórias usando Python
 
 Esse é meu primeiro projeto criado como forma de estudo e prática usando linguagem Python.  
